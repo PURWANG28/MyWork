@@ -1,0 +1,72 @@
+.cover{
+    background-color: rgba(0, 0, 0, 0.8);
+    padding-top: 20px;
+    height: auto;
+    padding-bottom: 500px;
+}
+
+
+h1{
+    color: aliceblue;
+}
+
+
+input{
+    background-color: aliceblue;
+    height: 50px;
+    border-radius: 10px;
+    padding-left: 20px;
+    width: 1200px;
+    border: none;
+}
+
+.add{
+    width: 100px;
+    height: 50px;
+}
+
+.listitems{
+width: 1200px;
+background-color: aliceblue;
+margin-left: 85px;
+border-radius: 10px;
+
+}
+
+.hello{
+color: black;
+padding-left: 10px;
+text-align: left;
+margin-top: 20px;
+position: relative;
+height: 50px;
+padding-top: 10px;
+background-color: black;
+color: white;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+
+}
+
+.dltbtn{
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 50px;
+    border-radius: 10px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.edtbtn{
+    position: absolute;
+    right: 73px;
+    top: 0;
+    height: 50px;
+    width: 80px;
+}
+
+.rank{
+    display: inline-block;
+    margin-right: 10px;
+}
